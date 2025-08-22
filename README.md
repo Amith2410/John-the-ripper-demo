@@ -10,7 +10,7 @@ The demo shows how weak password hashes can be cracked using a dictionary attack
 ---
 
 ## 📺 Demo Video
-[![Watch the demo](https://youtu.be/pHWzCBNu3zk)
+[![Watch the demo](https://img.youtube.com/vi/duLaUcIlbaY/0.jpg)](https://youtu.be/pHWzCBNu3zk)
 
 ---
 
